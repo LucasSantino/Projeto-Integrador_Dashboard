@@ -1,4 +1,4 @@
-#Automation Mange
+* Automation Mange
 Projeto Integrador
 Descrição do Projeto: O SIMOPI é uma iniciativa voltada para a automação e análise
 de dados na produção industrial, visando otimizar e controlar de forma eficaz os
